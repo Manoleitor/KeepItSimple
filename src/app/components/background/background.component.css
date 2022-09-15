@@ -1,0 +1,12 @@
+.background{
+    width: 100vmax;
+    height: 100vh;
+    background-color: blue;
+}
+
+.mousePos{
+    width: 30px;
+    height: 10px;
+    background-color: gray;
+    position: relative;
+}
